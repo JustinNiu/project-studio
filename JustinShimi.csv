@@ -1,0 +1,14 @@
+0.0;tap;1;
+1;swoopRight;1.5;
+3;swoopLeft;1.5;
+5;swoopRightMid;2;
+7;swoopLeftMid;2;
+9;swoopDownRight;2;
+11;swoopDownLeft;2;
+13;hiphopNodLow;2;
+15;hiphopNod;2;
+17;hiphopNodHigh;2;
+19;NeckRL;1.2;2
+21;NeckUD;1.2;2
+23;Head;1.2;2
+stop;;
