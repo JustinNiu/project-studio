@@ -1,5 +1,5 @@
 0.0;tap;1;
-1;swoopRight;1.5;
-3;swoopLeft;1.5;
-5;swoopRightMid;2;
+1;swoopRight;.8;
+3;swoopLeft;.8;
+5;swoopRightMid;1;
 stop;;
